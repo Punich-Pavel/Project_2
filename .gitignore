@@ -160,5 +160,5 @@ cython_debug/
 .idea/
 
 # My files and folders
-/_venv/
+/project_venv/
 Анализ кандидатов для заказчиков.docx
